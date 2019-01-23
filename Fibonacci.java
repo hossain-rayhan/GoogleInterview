@@ -1,5 +1,7 @@
 //Find the nth Fibonacci number
 //Developed By: Rayhan Hossain (Mukla.C) on 2019/01/15
+//Without memoization Time Complexity: O(2^N)
+//With Memoization Time Complexity: O(N)- Linear
 
 import java.util.Scanner;
 
