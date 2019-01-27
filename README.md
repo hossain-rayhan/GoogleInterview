@@ -1,6 +1,5 @@
 # GoogleInterview
 
---Updated: January 26, 2019 
 --Author: Rayhan Hossain (Mukla.C) 
 --Most of the codes are written in JAVA
 
